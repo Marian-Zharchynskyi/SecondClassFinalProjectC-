@@ -1,0 +1,15 @@
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\bin\Debug\net7.0\Storage.DataManager.deps.json
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\bin\Debug\net7.0\Storage.DataManager.dll
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\bin\Debug\net7.0\Storage.DataManager.pdb
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\bin\Debug\net7.0\Storage.Core.dll
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\bin\Debug\net7.0\Storage.Core.pdb
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.csproj.AssemblyReference.cache
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.AssemblyInfoInputs.cache
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.AssemblyInfo.cs
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.csproj.CoreCompileInputs.cache
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.dll
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\refint\Storage.DataManager.dll
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage.DataManager.pdb
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\ref\Storage.DataManager.dll
+D:\ОА\C#\2 курс\Практика\Practise\Storage.DataManager\obj\Debug\net7.0\Storage..06009DB5.Up2Date

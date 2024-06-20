@@ -1,0 +1,14 @@
+D:\ОА\C#\2 курс\Практика\Practise\Practise\bin\Debug\net7.0\Storage.Core.deps.json
+D:\ОА\C#\2 курс\Практика\Practise\Practise\bin\Debug\net7.0\Storage.Core.runtimeconfig.json
+D:\ОА\C#\2 курс\Практика\Practise\Practise\bin\Debug\net7.0\Storage.Core.dll
+D:\ОА\C#\2 курс\Практика\Practise\Practise\bin\Debug\net7.0\Storage.Core.pdb
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.csproj.AssemblyReference.cache
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.AssemblyInfoInputs.cache
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.AssemblyInfo.cs
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.csproj.CoreCompileInputs.cache
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.dll
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\refint\Storage.Core.dll
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.pdb
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\Storage.Core.genruntimeconfig.cache
+D:\ОА\C#\2 курс\Практика\Practise\Practise\obj\Debug\net7.0\ref\Storage.Core.dll
